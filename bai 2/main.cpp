@@ -15,3 +15,5 @@ int main()
     cout << factorial(n);
     return 0;
 }
+/* Chuoi gia tri duoc in theo thu tu giam dan tu n den 1
+    Kich thuoc stack frame cho ham factorial: 20 */
