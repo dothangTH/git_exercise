@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1552457777 source:e:\clone\sokoban\main.cpp
+	<iostream>
+	<conio.h>
+	<vector>
+	<cstdlib>
+	<thread>
+	<chrono>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+
